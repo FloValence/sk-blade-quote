@@ -1,0 +1,20 @@
+{
+  "quote": {
+    "content": {
+      "type": "longtext",
+      "required": true
+    },
+    "author": {
+        "type": "text"
+    },
+    "authorColor": {
+        "type": "color"
+    },
+    "background": {
+        "type": "link"
+    },
+    "backgroundColor": {
+        "type": "color"
+    }
+  }
+}
